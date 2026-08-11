@@ -19,7 +19,7 @@ These four are frameworks for defining what trustworthy AI means, not governance
 
 ### 1.2 The Four Frameworks, Pillar by Pillar
 
-![The Four Frameworks, Pillar by Pillar](assets/pillars-by-framework.svg)
+![The Four Frameworks, Pillar by Pillar](../assets/pillars-by-framework.svg)
 
 The report behind ISO/IEC TR 24028 also discusses accountability, transparency, explainability, and fairness elsewhere, these overlap with what the other frameworks already cover, which is why they're not repeated in this subset.
 
