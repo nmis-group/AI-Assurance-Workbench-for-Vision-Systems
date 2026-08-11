@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1152" height="507.5" viewBox="0 0 1152 507.5" font-family="system-ui, -apple-system, Segoe UI, sans-serif">
+<rect x="0" y="0" width="1152" height="507.5" fill="#fcfcfb"/>
+<text x="20" y="34" font-size="19" font-weight="700" fill="#0b0b0b">The Four Frameworks, Pillar by Pillar</text>
+<text x="20" y="55" font-size="12.5" fill="#52514e">Each framework's own requirements, in its own original order</text>
+<rect x="20" y="78" width="260" height="417.5" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)" stroke-width="1.5"/>
+<rect x="20" y="78" width="260" height="6" rx="3" fill="#2a78d6"/>
+<text x="38" y="112" font-size="14.5" font-weight="700" fill="#0b0b0b">EU ETHICS GUIDELINES</text>
+<text x="38" y="131" font-size="11.5" fill="#898781">for Trustworthy AI, 7 requirements</text>
+<line x1="38" y1="142" x2="262" y2="142" stroke="rgba(11,11,11,0.10)" stroke-width="1"/>
+<circle cx="45" cy="159" r="9" fill="#2a78d6" opacity="0.15"/>
+<text x="45" y="163" font-size="10.5" font-weight="700" fill="#2a78d6" text-anchor="middle">1</text>
+<text x="60" y="163.0" font-size="12.5" fill="#0b0b0b">Human agency and</text>
+<text x="60" y="178.5" font-size="12.5" fill="#0b0b0b">oversight</text>
+<circle cx="45" cy="204.0" r="9" fill="#2a78d6" opacity="0.15"/>
+<text x="45" y="208.0" font-size="10.5" font-weight="700" fill="#2a78d6" text-anchor="middle">2</text>
+<text x="60" y="208.0" font-size="12.5" fill="#0b0b0b">Technical robustness and</text>
+<text x="60" y="223.5" font-size="12.5" fill="#0b0b0b">safety</text>
+<circle cx="45" cy="249.0" r="9" fill="#2a78d6" opacity="0.15"/>
+<text x="45" y="253.0" font-size="10.5" font-weight="700" fill="#2a78d6" text-anchor="middle">3</text>
+<text x="60" y="253.0" font-size="12.5" fill="#0b0b0b">Privacy and data</text>
+<text x="60" y="268.5" font-size="12.5" fill="#0b0b0b">governance</text>
+<circle cx="45" cy="294.0" r="9" fill="#2a78d6" opacity="0.15"/>
+<text x="45" y="298.0" font-size="10.5" font-weight="700" fill="#2a78d6" text-anchor="middle">4</text>
+<text x="60" y="298.0" font-size="12.5" fill="#0b0b0b">Transparency</text>
+<circle cx="45" cy="323.5" r="9" fill="#2a78d6" opacity="0.15"/>
+<text x="45" y="327.5" font-size="10.5" font-weight="700" fill="#2a78d6" text-anchor="middle">5</text>
+<text x="60" y="327.5" font-size="12.5" fill="#0b0b0b">Diversity,</text>
+<text x="60" y="343.0" font-size="12.5" fill="#0b0b0b">non-discrimination and</text>
+<text x="60" y="358.5" font-size="12.5" fill="#0b0b0b">fairness</text>
+<circle cx="45" cy="384.0" r="9" fill="#2a78d6" opacity="0.15"/>
+<text x="45" y="388.0" font-size="10.5" font-weight="700" fill="#2a78d6" text-anchor="middle">6</text>
+<text x="60" y="388.0" font-size="12.5" fill="#0b0b0b">Societal and</text>
+<text x="60" y="403.5" font-size="12.5" fill="#0b0b0b">environmental wellbeing</text>
+<circle cx="45" cy="429.0" r="9" fill="#2a78d6" opacity="0.15"/>
+<text x="45" y="433.0" font-size="10.5" font-weight="700" fill="#2a78d6" text-anchor="middle">7</text>
+<text x="60" y="433.0" font-size="12.5" fill="#0b0b0b">Accountability</text>
+<rect x="304" y="78" width="260" height="417.5" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)" stroke-width="1.5"/>
+<rect x="304" y="78" width="260" height="6" rx="3" fill="#eb6834"/>
+<text x="322" y="112" font-size="14.5" font-weight="700" fill="#0b0b0b">NIST AI RMF</text>
+<text x="322" y="131" font-size="11.5" fill="#898781">7 official characteristics</text>
+<line x1="322" y1="142" x2="546" y2="142" stroke="rgba(11,11,11,0.10)" stroke-width="1"/>
+<circle cx="329" cy="159" r="9" fill="#eb6834" opacity="0.15"/>
+<text x="329" y="163" font-size="10.5" font-weight="700" fill="#eb6834" text-anchor="middle">1</text>
+<text x="344" y="163.0" font-size="12.5" fill="#0b0b0b">Valid and reliable</text>
+<circle cx="329" cy="188.5" r="9" fill="#eb6834" opacity="0.15"/>
+<text x="329" y="192.5" font-size="10.5" font-weight="700" fill="#eb6834" text-anchor="middle">2</text>
+<text x="344" y="192.5" font-size="12.5" fill="#0b0b0b">Safe</text>
+<circle cx="329" cy="218.0" r="9" fill="#eb6834" opacity="0.15"/>
+<text x="329" y="222.0" font-size="10.5" font-weight="700" fill="#eb6834" text-anchor="middle">3</text>
+<text x="344" y="222.0" font-size="12.5" fill="#0b0b0b">Secure and resilient</text>
+<circle cx="329" cy="247.5" r="9" fill="#eb6834" opacity="0.15"/>
+<text x="329" y="251.5" font-size="10.5" font-weight="700" fill="#eb6834" text-anchor="middle">4</text>
+<text x="344" y="251.5" font-size="12.5" fill="#0b0b0b">Accountable and</text>
+<text x="344" y="267.0" font-size="12.5" fill="#0b0b0b">transparent</text>
+<circle cx="329" cy="292.5" r="9" fill="#eb6834" opacity="0.15"/>
+<text x="329" y="296.5" font-size="10.5" font-weight="700" fill="#eb6834" text-anchor="middle">5</text>
+<text x="344" y="296.5" font-size="12.5" fill="#0b0b0b">Explainable and</text>
+<text x="344" y="312.0" font-size="12.5" fill="#0b0b0b">interpretable</text>
+<circle cx="329" cy="337.5" r="9" fill="#eb6834" opacity="0.15"/>
+<text x="329" y="341.5" font-size="10.5" font-weight="700" fill="#eb6834" text-anchor="middle">6</text>
+<text x="344" y="341.5" font-size="12.5" fill="#0b0b0b">Privacy-enhanced</text>
+<circle cx="329" cy="367.0" r="9" fill="#eb6834" opacity="0.15"/>
+<text x="329" y="371.0" font-size="10.5" font-weight="700" fill="#eb6834" text-anchor="middle">7</text>
+<text x="344" y="371.0" font-size="12.5" fill="#0b0b0b">Fair, with harmful bias</text>
+<text x="344" y="386.5" font-size="12.5" fill="#0b0b0b">managed</text>
+<rect x="588" y="78" width="260" height="417.5" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)" stroke-width="1.5"/>
+<rect x="588" y="78" width="260" height="6" rx="3" fill="#1baf7a"/>
+<text x="606" y="112" font-size="14.5" font-weight="700" fill="#0b0b0b">ISO/IEC TR 24028</text>
+<text x="606" y="131" font-size="11.5" fill="#898781">commonly cited technical subset</text>
+<line x1="606" y1="142" x2="830" y2="142" stroke="rgba(11,11,11,0.10)" stroke-width="1"/>
+<circle cx="613" cy="159" r="9" fill="#1baf7a" opacity="0.15"/>
+<text x="613" y="163" font-size="10.5" font-weight="700" fill="#1baf7a" text-anchor="middle">1</text>
+<text x="628" y="163.0" font-size="12.5" fill="#0b0b0b">Availability</text>
+<circle cx="613" cy="188.5" r="9" fill="#1baf7a" opacity="0.15"/>
+<text x="613" y="192.5" font-size="10.5" font-weight="700" fill="#1baf7a" text-anchor="middle">2</text>
+<text x="628" y="192.5" font-size="12.5" fill="#0b0b0b">Resilience</text>
+<circle cx="613" cy="218.0" r="9" fill="#1baf7a" opacity="0.15"/>
+<text x="613" y="222.0" font-size="10.5" font-weight="700" fill="#1baf7a" text-anchor="middle">3</text>
+<text x="628" y="222.0" font-size="12.5" fill="#0b0b0b">Reliability</text>
+<circle cx="613" cy="247.5" r="9" fill="#1baf7a" opacity="0.15"/>
+<text x="613" y="251.5" font-size="10.5" font-weight="700" fill="#1baf7a" text-anchor="middle">4</text>
+<text x="628" y="251.5" font-size="12.5" fill="#0b0b0b">Accuracy</text>
+<circle cx="613" cy="277.0" r="9" fill="#1baf7a" opacity="0.15"/>
+<text x="613" y="281.0" font-size="10.5" font-weight="700" fill="#1baf7a" text-anchor="middle">5</text>
+<text x="628" y="281.0" font-size="12.5" fill="#0b0b0b">Safety</text>
+<circle cx="613" cy="306.5" r="9" fill="#1baf7a" opacity="0.15"/>
+<text x="613" y="310.5" font-size="10.5" font-weight="700" fill="#1baf7a" text-anchor="middle">6</text>
+<text x="628" y="310.5" font-size="12.5" fill="#0b0b0b">Security</text>
+<circle cx="613" cy="336.0" r="9" fill="#1baf7a" opacity="0.15"/>
+<text x="613" y="340.0" font-size="10.5" font-weight="700" fill="#1baf7a" text-anchor="middle">7</text>
+<text x="628" y="340.0" font-size="12.5" fill="#0b0b0b">Privacy</text>
+<rect x="872" y="78" width="260" height="417.5" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)" stroke-width="1.5"/>
+<rect x="872" y="78" width="260" height="6" rx="3" fill="#eda100"/>
+<text x="890" y="112" font-size="14.5" font-weight="700" fill="#0b0b0b">AUSTRALIA'S AI ETHICS</text>
+<text x="890" y="131" font-size="11.5" fill="#898781">8 principles, condensed to 5 for Phase 1</text>
+<line x1="890" y1="142" x2="1114" y2="142" stroke="rgba(11,11,11,0.10)" stroke-width="1"/>
+<circle cx="897" cy="159" r="9" fill="#eda100" opacity="0.15"/>
+<text x="897" y="163" font-size="10.5" font-weight="700" fill="#eda100" text-anchor="middle">1</text>
+<text x="912" y="163.0" font-size="12.5" fill="#0b0b0b">Human, societal and</text>
+<text x="912" y="178.5" font-size="12.5" fill="#0b0b0b">environmental wellbeing</text>
+<circle cx="897" cy="204.0" r="9" fill="#eda100" opacity="0.15"/>
+<text x="897" y="208.0" font-size="10.5" font-weight="700" fill="#eda100" text-anchor="middle">2</text>
+<text x="912" y="208.0" font-size="12.5" fill="#0b0b0b">Human-centred values</text>
+<circle cx="897" cy="233.5" r="9" fill="#eda100" opacity="0.15"/>
+<text x="897" y="237.5" font-size="10.5" font-weight="700" fill="#eda100" text-anchor="middle">3</text>
+<text x="912" y="237.5" font-size="12.5" fill="#0b0b0b">Fairness</text>
+<circle cx="897" cy="263.0" r="9" fill="#eda100" opacity="0.15"/>
+<text x="897" y="267.0" font-size="10.5" font-weight="700" fill="#eda100" text-anchor="middle">4</text>
+<text x="912" y="267.0" font-size="12.5" fill="#0b0b0b">Privacy protection and</text>
+<text x="912" y="282.5" font-size="12.5" fill="#0b0b0b">security</text>
+<circle cx="897" cy="308.0" r="9" fill="#eda100" opacity="0.15"/>
+<text x="897" y="312.0" font-size="10.5" font-weight="700" fill="#eda100" text-anchor="middle">5</text>
+<text x="912" y="312.0" font-size="12.5" fill="#0b0b0b">Reliability and safety</text>
+<circle cx="897" cy="337.5" r="9" fill="#eda100" opacity="0.15"/>
+<text x="897" y="341.5" font-size="10.5" font-weight="700" fill="#eda100" text-anchor="middle">6</text>
+<text x="912" y="341.5" font-size="12.5" fill="#0b0b0b">Transparency and</text>
+<text x="912" y="357.0" font-size="12.5" fill="#0b0b0b">explainability</text>
+<circle cx="897" cy="382.5" r="9" fill="#eda100" opacity="0.15"/>
+<text x="897" y="386.5" font-size="10.5" font-weight="700" fill="#eda100" text-anchor="middle">7</text>
+<text x="912" y="386.5" font-size="12.5" fill="#0b0b0b">Contestability</text>
+<circle cx="897" cy="412.0" r="9" fill="#eda100" opacity="0.15"/>
+<text x="897" y="416.0" font-size="10.5" font-weight="700" fill="#eda100" text-anchor="middle">8</text>
+<text x="912" y="416.0" font-size="12.5" fill="#0b0b0b">Accountability</text>
+</svg>
