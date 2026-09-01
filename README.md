@@ -1,4 +1,4 @@
-# NMIS-CATP-07810-AI-Assurance-Workbench-WP5
+# AI Assurance Workbench for Vision Systems
 
 A reusable framework for generating standards-mapped evidence of AI trustworthiness for machine vision models deployed in manufacturing, covering both AI model assurance and data assurance. Builds on the Bolt Detection Model case study (WS5) to generalize testing across the EU AI Act, NIST AI RMF, and ISO/IEC AI standards.
 
